@@ -1,3 +1,3 @@
 # SNotes
 
-sopho [notes](https://sophotomato.top/SNotes/)!
+sopho [notes](https://snotes.sophotomato.top/)!
