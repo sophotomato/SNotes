@@ -112,5 +112,12 @@ $ git checkout testing
 $ git branch -d testing
 ```
 
+# blog相关
+```shell
+$ git add . # 添加修改  
+$ git commit -m 'change log'  
+$ git push  
+```
+
 ## REFERENCE
 For more details see [Git](https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5).
