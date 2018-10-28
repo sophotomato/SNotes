@@ -5,3 +5,4 @@
 [linux使用](https://sophotomato.top/SNotes/linux)  
 [vim使用](https://sophotomato.top/SNotes/vim)  
 [Python笔记](https://sophotomato.top/SNotes/python)  
+[markdown](https://sophotomato.top/SNotes/mdsynatx)  
